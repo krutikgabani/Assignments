@@ -1,4 +1,4 @@
-// Q - 1
+// Q1
 // Write a function `isAnagram` which takes 2 parameters and returns true/false if those areanagrams or not.
 
 function isAnagram(str1, str2) {

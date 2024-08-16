@@ -1,3 +1,5 @@
+//Q2
+
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.8.2 <0.9.0;
 
@@ -7,7 +9,7 @@ contract SimpleStorage {
 
     // Function to set the integer value
     function set(uint256 value) public {
-        storedValue = value;
+        storedValue = value
     }
 
     // Function to retrieve the stored integer value

@@ -1,4 +1,4 @@
-# Assignmnet 1 : IU2141220023 krutik gaban
+# Assignmnet 1 : IU2141220023 krutik gabani
 
 Submitting Date: 02/08/2024
 
